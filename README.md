@@ -3,14 +3,14 @@
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/simon-sammel/)[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bssammel@gmail.com)](mailto:bssammel@gmail.com) 
 
 ### My 9-5 🏢
-With a background in biology🥼 and healthcare⚕️ as well as being an App Academy graduate, I am passionate about leveraging technology to promote better health for humans and the world we live in. With a neverending desire to learn and improve, I am always looking forward to how I can learn and grow to improve my work. 
+With a background in biology🥼 and healthcare⚕️, I am passionate about leveraging technology to promote better health for humans and the world we live in. With a neverending desire to learn and improve, I am always looking forward to how I can learn and grow to improve my work. 
 
 With two years of experience as a CRM developer and leading a development team, I have a robust set of soft skillls critical to software development, and now with the extensive technical hard skills I built at App Academy, I am sure to thrive in my next role. 
 
-While I am seeking out my next role, I am working to expand my direct primary care practice focused electronic medical record system to include appointment management, practice management, and billing management
+While I am seeking out my next role, I am working to expand my direct primary care practice focused electronic medical record system to include appointment management, practice management, and billing management.
 
 ### My 5-9 🏡
-When I am not at my desk with a cat in my lap doing her best to be a good rubber duck partner, you can probably find me in my backyard garden tending to my heirloom crops🌱, making dinner with my husband🍛, or biking on my folding bike around the hills in my Western Allegheny mountain town🚵. Occcasionally you might catch me in the Pittsburgh Strip District spending too much time agonizing over which spice to get from Penzey's🌶️. 
+When I am not at my desk with a cat in my lap doing her best to be a good rubber duck partner, you can probably find me in my backyard garden tending to my heirloom crops🌱, making dinner with my husband🍛, or exploring the trails of northwest Vermont where I have recently relocated to. You can also catch me at the Burlington Farmer's Market on Saturdays or the Winooski market on Sunday mornings. 
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>

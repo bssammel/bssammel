@@ -5,7 +5,7 @@
 ### My 9-5 🏢
 With a background in biology🥼 and healthcare⚕️, I am passionate about leveraging technology to promote better health for humans and the world we live in. With a neverending desire to learn and improve, I am always looking forward to how I can learn and grow to improve my work.
 
-Currently I am working at Middlebury College as a Full Stack Software Developer, with two years of previous experience under my belt as a developer and leading a team.
+Currently I am working at Middlebury College as a Full Stack Software Developer on their Enterprise Integrations and Student Information Systems team. I joined in September 2024 with two years of previous experience under my belt as a developer and leading a team. 
 
 <!---With two years of experience as a CRM developer and leading a development team, I have a robust set of soft skills critical to software development, and now with the extensive technical hard skills I built at App Academy, I am sure to thrive in my next role.
 

@@ -12,9 +12,9 @@ Currently I am working at Middlebury College as a Full Stack Software Developer,
 While I am seeking out my next role, I am working to expand my direct primary care practice focused electronic medical record system to include appointment management, practice management, and billing management. --> 
 
 ### My 5-9 🏡
-When I am not at my desk with a cat in my lap doing her best to be a good rubber duck partner, you can probably find me in my backyard garden tending to my heirloom crops🌱, making dinner with my husband🍛, or exploring the trails of northwest Vermont where I have recently relocated to. You can also catch me at the Burlington Farmer's Market on Saturdays or the Winooski market on Sunday mornings. 
+When I am not at my desk with a cat in my lap doing her best to be a good rubber duck partner, you can probably find me in my backyard garden tending to my heirloom crops🌱, making dinner with my husband🍛, or exploring the trails of northwest Vermont where I have recently relocated to. 
 
-I am also working to expand my direct primary care practice focused electronic medical record system to include appointment management, practice management, and billing management.  
+I am also working to expand my direct primary care practice focused electronic medical record system to include appointment management, practice management, and billing management. With some major changes planned for the database, I am learning how to best build with AWS. 
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
